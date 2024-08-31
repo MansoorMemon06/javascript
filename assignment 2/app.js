@@ -1,0 +1,10 @@
+var UserName="mansoor Haider";
+alert(UserName);
+alert("24 years old");
+alert("Certified application develoment");
+alert("pizza \n pizz \n piz \n pi \n p");
+alert("My email address is : memonmansoor120@gmail.com");
+var Book="a smarter way to learn Javascript ";
+alert(Book);
+document.write("Yah! i can write HTML content through Javascript");
+alert("----------₹⨷₹-----------------");
